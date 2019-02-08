@@ -190,7 +190,7 @@
 
 2) Annual dues shall be established upon recommendation of the Executive Council and approved at any chapter meeting, providing that the notice for the meeting includes this as an item of business.
 
-## ARTICLE XII - AMENDMENTS AND PROCEDURE
+## ARTICLE XIII - AMENDMENTS AND PROCEDURE
 
 1) Amendments to these bylaws shall be made in the following manner:
 
