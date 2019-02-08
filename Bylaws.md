@@ -88,9 +88,124 @@
 
 ### The chapter sponsor shall prepare and send reports required of him/her by the ACM and shall ensure the preparation and transferal of reports required of the officers.
 
+## ARTICLE VI - EXECUTIVE COUNCIL
 
+### The Executive Council shall consist of the chapter officers, the Chapter Advisor, and the Executive Board(s) of SIG(s). The Executive Council shall meet and nominate the Advisor immediately following the annual election meeting, if necessary.
 
+### Except as otherwise provided in these bylaws, the Executive Council shall act for this chapter in all matters except election of officers at the annual election meeting and the amendment of these bylaws.  Minutes of all Executive Council meetings shall be available for inspection by any member of this chapter and shall be filed with the chapter records.
 
+### The Executive Board members of any SIG(s) which are approved by, and maintained by the present Executive Council, shall also be members of the Executive Council.
 
+### Meetings of the Executive Council shall be called by the President at his or her discretion or upon request of any member of the Executive Council.
 
-  
+### Meetings of the Executive Council shall be open for any members of The Association.
+
+### All voting matters which are brought to the floor for debate in the Executive Council Meeting, shall be voted on by all members of the Executive Council. 
+
+1) A vote may be cast in three methods:
+
+    1) Yea: A vote for ‘Yea’ is to approve the matter which is being debated/voted upon. 
+    
+    2) Nay: A vote for ‘Nay’ is to negate the matter which is being debated/voted upon.
+    
+    3) Abstain: A vote in Abstention is to not cast a vote, in favor or against it, in the matter being debated/voted upon. 
+
+2) For all matters except for amendments to the Bylaws, a simple majority is required for passage of the matter at hand.
+
+## ARTICLE VII - SPECIAL INTEREST GROUPS (SIG)
+
+The Association shall allow for the creation and maintenance of Special Interest Groups. These SIGs shall be independent sub-organizations which are under the Umbrella of The Association.
+
+In order for a SIG to be approved and come into existence under The Association:
+
+1) At least three (3) interested Voting members, must make a formal proposal to the SIG Committee, which then will approve or deny the resolution. If approved by the SIG Committee it will be brought to a full vote to the Executive Council, who will approve or deny the resolution.
+    
+2) There must be at minimum one (1) voting member who will serve as the Executive for the SIG.
+
+A SIG will be held responsible for all monetary/fiscal, attributions and contributions which The Associations grants to the SIG. In order for a SIG to receive any funding the SIG must:
+
+1) Make a formal proposal to the SIG Committee, which then will approve or deny the appropriation. If approved by the SIG Committee it will be brought to a full vote to the Executive Council, who will approve or deny the appropriation.
+
+The Special Interest Group Committee, furthermore referred to as the SIG Committee. This committee shall be a standing committee, shall plan and arrange meetings of the chapter’s SIG(s) in accordance with membership interests and the aims of this chapter as set forth in Article II; and shall prepare a calendar of regularly scheduled meetings each year for the SIG.
+
+## ARTICLE VIII - SPECIAL INTEREST GROUP (SIG) COMMITTEE
+
+The Special Interest Group Committee, furthermore referred to as the SIG Committee. This committee shall be a standing committee, shall plan and arrange meetings of the chapter’s SIG(s) in accordance with membership interests and the aims of this chapter as set forth in Article II; and shall prepare a calendar of regularly scheduled meetings each year for the SIG.
+
+The SIG Committee shall consist of the Executive Boards of any SIG(s); it may have one or two additional members who are either voting or non-voting members of this chapter. 
+
+The SIG Committee shall be chaired by the Chapter Vice-President, unless otherwise appointed by the Chapter President.
+
+The SIG Committee shall be the regents of all SIG(s) that are in existence in The Association.
+
+The SIG Committee shall report the status of all SIG(s) which are presently in existence and holding regular meetings.
+
+This Committee shall further be appointed to the Executive Council as voting members.
+
+## ARTICLE IX - GENERAL BODY COMMITTEES
+
+In addition to the SIG Committee, General Body Committees will be formed. These Committees will be lead by Committee Chair(s) (1-2). These Committees will be in charge of the following for The Association:
+
+1) The Events Committee shall be in charge of planning events for The Association and working with liaisons for said events.
+
+2) The Fundraising and Philanthropy Committee shall be in charge of planning fundraising opportunities for The Association. They also are in charge of planning any events focused around increasing the quality of life for the public good.
+
+3) The Outreach and Retention Committee will focus on recruitment opportunities in the community along with maintaining current members. Members of this committee will work closely with other General Body Committees and SIG organizations.
+
+The General Body Committees will meet during the General Body meetings and as often as the Committee Chair(s) call for. 
+
+The Committee members are encouraged to work with multiple Committees and SIGS when planning different events and activities.
+
+## ARTICLE X - TEMPORARY COMMITTEES
+
+In addition to the SIG Committee and the General Body Committees, Temporary Committees may be established by the Chapter President.
+
+The chair and members of both Temporary Committees are appointed by the Chapter President, except as otherwise provided in the bylaws. All committee appointments shall terminate at the end of the annual election meeting.
+
+## ARTICLE XI - MEETINGS
+
+Meetings shall be held as planned by the Executive Council
+
+1) This chapter may hold meetings only in places that are open to all members of the Association for Computing Machinery.
+
+The annual election meeting shall be held during the spring term of every year.
+
+1) Any voting member may make nominations from the floor.
+
+2) After the nominations are closed, the voting members present shall vote.
+
+3) A majority of the votes cast for any office is necessary for election to that office.
+
+4) The secretary shall present the annual chapter report.
+
+Notices shall be distributed to all members at least one week prior to any meeting.
+
+There shall be at least two meetings each Academic Trimester.
+
+A quorum of this chapter for the conduct of business shall consist of ten voting members of a majority of the voting members of this chapter; whichever is smaller.
+
+## ARTICLE XII - DISBURSEMENTS AND DUES
+
+Disbursements from the treasury for chapter expenditures shall be made under authorization of the Executive Council and be included in the minutes of that meeting.
+
+Annual dues shall be established upon recommendation of the Executive Council and approved at any chapter meeting, providing that the notice for the meeting includes this as an item of business.
+
+## ARTICLE XII - AMENDMENTS AND PROCEDURE
+
+Amendments to these bylaws shall be made in the following manner:
+
+1) The proposed amendment shall be read at a regularly announced chapter meeting.
+
+2) Chapter and Student Chapter bylaws and all amendments must be sent to the Chapter Advisor of the ACM.  After the Chapter Advisor has provided advice, the President of the Chapter and the chair of the Constitution and Bylaws Committee must validate the proposals. The Constitution and Bylaws Committee may, by a majority vote, cause any changes to be void.
+
+3) After approval has been received from the designated Committee, the proposed amendment shall be distributed to the membership in writing with notice of a subsequent meeting at which the amendment will be considered.
+
+4) At the designated meeting, the amendment shall be read again, discussed, and voted upon.  Two-thirds of the voting members present and voting shall be required to adopt the amendment.
+
+The rules in Robert’s Rules of Order Revised shall govern this chapter in all cases to which they are applicable, and in which they are not inconsistent with these bylaws.
+
+Ruling on any point of procedure not included in these bylaws shall be made by the chair with approval of the chapter sponsor.
+
+## ARTICLE XIV - DISSOLUTION
+
+In the event of revocation of the charter or dissolution of this chapter, all the assets of the chapter will be transferred to the Association for Computing Machinery.
