@@ -1,6 +1,6 @@
 # Bylaws of the Northwest Missouri State University Student Chapter of the Association for Computing Machinery
 
-### Approved: September 10, 2018
+### Approved: April 17, 2019
 
 ## ARTICLE I - NAME
 
@@ -63,6 +63,8 @@
 7) The Publicist shall, be responsible for all communications to the membership, including the creation of promotional materials. The Publicist shall further be responsible for maintaining all social media presence. 
 
 8) Committee Chairs shall assist in maintaining communication between their respective committee and The Executive Council. Committee Chair holders are responsible for reporting current status at Executive Council meetings. 
+
+9) The President-Alum role shall be filled by the individual being replaced by the President-Elect.  This role may go unfilled if the current President is re-elected or will be otherwise unavailable in the next term.  This role is advisory, providing assistance and support to the current executive board during chapter meetings and events.
 
 ## ARTICLE V - CHAPTER ADVISOR
 
