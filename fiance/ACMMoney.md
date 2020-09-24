@@ -17,3 +17,5 @@
 | 9/11/2019 |  Cookies for Intern Presentation |         Cookies         |          |                        |  $             15.00   |   $           707.32   |
 |           |                                  |                         |          |                        |                        |                        |
 | 10/2/2019 |        Lanyards for badges       |         Lanyards        |    100   |  $               0.10  |  $             10.00   |  $           697.32    |
+|           |                                  |                         |          |                        |                        |                        |
+| 9/24/2020 | Gift cards for hackthon prizes   |      Giftcard           |    2     |  $               25.00 |  $             50.00   |  $           647.32    |     
