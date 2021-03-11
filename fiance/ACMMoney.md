@@ -19,3 +19,8 @@
 | 10/2/2019 |        Lanyards for badges       |         Lanyards        |    100   |  $               0.10  |  $             10.00   |  $           697.32    |
 |           |                                  |                         |          |                        |                        |                        |
 | 9/24/2020 | Gift cards for hackthon prizes   |      Giftcard           |    2     |  $               25.00 |  $             50.00   |  $           647.32    |     
+|           |                                  |                         |          |                        |                        |                        |
+| 3/10/2021 |    Prize for Coding challenge    |      Giftcard           |    1     |  $               30.00 |  $             30.00   |                        | 
+| 3/10/2021 |                                  |      Giftcard           |    1     |  $               20.00 |  $             20.00   |                        |
+| 3/10/2021 |                                  |      Giftcard           |    1     |  $                9.00 |  $              9.00   |                        |
+|           |                                  |                         |          |                        |  $           (59.00)   |  $          588.32     |
